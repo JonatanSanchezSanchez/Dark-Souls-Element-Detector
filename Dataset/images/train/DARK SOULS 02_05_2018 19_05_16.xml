@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>DARK SOULS 02_05_2018 19_05_16.png</filename>
+	<path>C:\PFG\Imagenes\images_03_05_2018\train\DARK SOULS 02_05_2018 19_05_16.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>undeadSoldier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>607</xmin>
+			<ymin>184</ymin>
+			<xmax>704</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>457</xmin>
+			<ymin>248</ymin>
+			<xmax>658</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>

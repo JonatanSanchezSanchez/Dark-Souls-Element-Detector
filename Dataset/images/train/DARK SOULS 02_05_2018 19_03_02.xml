@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>DARK SOULS 02_05_2018 19_03_02.png</filename>
+	<path>C:\PFG\Imagenes\images_03_05_2018\train\DARK SOULS 02_05_2018 19_03_02.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hollow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>130</ymin>
+			<xmax>594</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hollow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>629</xmin>
+			<ymin>154</ymin>
+			<xmax>688</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>326</ymin>
+			<xmax>550</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

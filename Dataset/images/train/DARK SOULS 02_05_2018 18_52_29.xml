@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>DARK SOULS 02_05_2018 18_52_29.png</filename>
+	<path>C:\PFG\Imagenes\images_03_05_2018\train\DARK SOULS 02_05_2018 18_52_29.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bonfire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>645</xmin>
+			<ymin>238</ymin>
+			<xmax>685</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>243</ymin>
+			<xmax>556</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>
