@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test</folder>
+	<filename>DARK SOULS 02_05_2018 18_52_15.png</filename>
+	<path>C:\PFG\Imagenes\images_03_05_2018\test\DARK SOULS 02_05_2018 18_52_15.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bonfire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>623</xmin>
+			<ymin>223</ymin>
+			<xmax>719</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dialogBox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>454</ymin>
+			<xmax>754</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>227</ymin>
+			<xmax>547</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

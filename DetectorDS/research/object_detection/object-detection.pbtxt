@@ -1,0 +1,54 @@
+item {
+  id: 1
+  name: 'bonfire'
+}
+
+item {
+  id: 2
+  name: 'hollow'
+}
+
+item {
+  id: 3
+  name: 'asylumDemon'
+}
+
+item {
+  id: 4
+  name: 'undeadSoldier'
+}
+
+item {
+  id: 5
+  name: 'souls'
+}
+
+item {
+  id: 6
+  name: 'humanity'
+}
+
+item {
+  id: 7
+  name: 'health'
+}
+
+item {
+  id: 8
+  name: 'stamina'
+}
+
+item {
+  id: 9
+  name: 'dialogBox'
+}
+
+item {
+  id: 10
+  name: 'bossHP'
+}
+
+item {
+  id: 11
+  name: 'player'
+}

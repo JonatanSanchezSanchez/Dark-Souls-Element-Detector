@@ -1,0 +1,2 @@
+Lás imágenes del día 02/05/2018 no tienen interfaz, es decir, no tienen vida, estamina, humanidades ni almas.
+Hay un fichero en cada una de las carpetas con las etiquetas ya con el formato del CSV.
