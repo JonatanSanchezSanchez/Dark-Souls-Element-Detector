@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>DARK SOULS 19_02_2018 10_52_21.png</filename>
+	<path>C:\Users\Jonatan\Desktop\ImagenesHueco\images\train\DARK SOULS 19_02_2018 10_52_21.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hollow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>336</ymin>
+			<xmax>611</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>583</xmin>
+			<ymin>342</ymin>
+			<xmax>689</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+</annotation>
